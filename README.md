@@ -9,10 +9,10 @@ These are my notes for when I was studying for my Puppet certification in 2015.
 
 #### Folder Content
 
-1- Config Files -- Documentation on configuration files
-2- Core Language -- Documentation on the core Puppet language (including Hiera and Facter)
-3- Administration -- Admin docs (install instructions, aliases, etc...)
-4- Enterprise Components -- Additional docs on Puppet Enterprise
+1. Config Files -- Documentation on configuration files
+1. Core Language -- Documentation on the core Puppet language (including Hiera and Facter)
+1. Administration -- Admin docs (install instructions, aliases, etc...)
+1. Enterprise Components -- Additional docs on Puppet Enterprise
 
 
 Puppet
