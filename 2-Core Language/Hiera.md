@@ -9,6 +9,8 @@ It is installed by default on Puppet Enterprise 3 and up.
 
 It provides a command line tool for testing `key:value` lookups
 
+***Note:*** When testing, puppet apply doesn't look at the hiera data, use puppet agent -t when testing
+
 #### Configuration files
 
 - Puppet Enterprise: /etc/puppetlabs/puppet/hiera.yaml
